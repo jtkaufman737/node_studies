@@ -9,4 +9,11 @@
 - process refers to the current node process, and you can do process.exit()
 
 ## LESSON 2
-- Non blocking I/O is a browser-ism that has grown farther than the browser 
+- Non blocking I/O is a browser-ism that has grown farther than the browser
+
+
+# BEGIN NOTETAKING APP
+## LESSON 3
+- There are stlibs and external modules as well
+- `fs.writeFile` or `fs.writeFileSync` (synchronous) can either write file systems using 2 args: name of file to write to, and data you want to write
+- `require` load modules 
